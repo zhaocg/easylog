@@ -1,0 +1,16 @@
+{
+  "name": "easylog",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-hosted game log collection and search console.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "dev:bg": "node scripts/start-background.js",
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

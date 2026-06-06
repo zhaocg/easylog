@@ -1,0 +1,10 @@
+node_modules/
+data/
+.env
+*.log
+unity_sample/**/Library/
+unity_sample/**/Temp/
+unity_sample/**/Logs/
+unity_sample/**/UserSettings/
+unity_sample/**/*.csproj
+unity_sample/**/*.sln
